@@ -1,0 +1,83 @@
+:doctype: book
+:listing-caption: Listing
+:toc:
+:toclevels: 6
+
+:link-pruefungsordnung: https://www.haw-landshut.de/studium/im-studium/rechtliche-angelegenheiten/informatik-studien-und-pruefungsordnungen.html
+:link-laufendesStudium: https://www.haw-landshut.de/hochschule/fakultaeten/informatik/infos-zum-laufenden-studienbetrieb.html
+:link-writerGuide: https://asciidoctor.org/docs/asciidoc-writers-guide/
+
+= Wiki der Fachschaft Informatik
+
+WARNING: Under Construction!
+
+
+== Warum kein echtes Wiki?
+
+Das kommt noch ;-) Fürs Erste wollten wir uns ganz einfach hier beginnen, weil es keine Arbeit macht kurz ein Repo in Github zu erstellen.
+Die Inhalte werden wir später in ein rcihtiges Wiki übertragen.
+Als Basis wird jetzt erstmal asciidoc verwendet.link:{link-writerGuide}[WriterGuide AsciiDoc]
+
+
+link: [sinnvolleLinks][Sinnvolle Links]
+
+
+== Sinnvolle Links [[sinnvolleLinks]]
+
+* link:{link-pruefungsordnung}[Studien und Prüfungsordnung]
+* link:{link-laufendesStudium}[Infos laufender Studenbetrieb(Vorlesungspläne, ...)]
+
+
+== Wichtige Termine
+
+=== Rückmeldung zum Semester
+
+=== Anmeldung zu den Kursen(Praktika)
+
+=== Anmeldung zu den Prüfungen
+
+
+
+== Semester 1
+
+=== Moodle
+
+=== SB-Portal
+
+
+== Semester 2
+
+
+
+== Semester 3
+
+=== Studienprojekte
+
+== Semester 4
+
+== Semester 5
+
+=== Praxissemester
+
+==== Rechtliches
+
+==== Firmen in der Umgebung
+
+include::src/text/firmenanschriften.adoc[]
+
+
+== Semester 6
+
+=== Seminarwahl
+
+== Semester 7
+
+=== Bachelorarbeit
+
+==== Anmeldung der Bachelorarbeit
+
+
+
+
+
+

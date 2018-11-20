@@ -1,0 +1,6 @@
+
+|===
+| Name | Anschrift | Bereich | Link
+
+| Fachschaft Informatik| Am Lurzenhof 1  84036 Landshut  | Studentenvertretung | stuv.la
+|===
