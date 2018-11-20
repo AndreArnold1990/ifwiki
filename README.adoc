@@ -35,22 +35,43 @@ link:https://www.haw-landshut.de/hochschule/fakultaeten/informatik/infos-zum-lau
 
 
 
+== Semester 1
+
+=== Moodle
+
+=== SB-Portal
+
+
+== Semester 2
 
 
 
-## Semester 1
+== Semester 3
 
-### Moodle
+=== Studienprojekte
 
-### SB-Portal
+== Semester 4
+
+== Semester 5
+
+=== Praxissemester
+
+==== Rechtliches
+
+==== Firmen in der Umgebung
+
+include::src/text/firmenanschriften.adoc[]
 
 
-## Semester 2
+== Semester 6
 
+=== Seminarwahl
 
+== Semester 7
 
+=== Bachelorarbeit
 
-
+==== Anmeldung der Bachelorarbeit
 
 
 
