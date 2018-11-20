@@ -3,6 +3,9 @@
 :toc:
 :toclevels: 6
 
+:link-pruefungsordnung: https://www.haw-landshut.de/studium/im-studium/rechtliche-angelegenheiten/informatik-studien-und-pruefungsordnungen.html
+:link-laufendesStudium: https://www.haw-landshut.de/hochschule/fakultaeten/informatik/infos-zum-laufenden-studienbetrieb.html
+:link-writerGuide: https://asciidoctor.org/docs/asciidoc-writers-guide/
 
 = Wiki der Fachschaft Informatik
 
@@ -13,7 +16,7 @@ WARNING: Under Construction!
 
 Das kommt noch ;-) Fürs Erste wollten wir uns ganz einfach hier beginnen, weil es keine Arbeit macht kurz ein Repo in Github zu erstellen.
 Die Inhalte werden wir später in ein rcihtiges Wiki übertragen.
-Als Basis wird jetzt erstmal asciidoc verwendet.link:https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-syntax-quick-reference[Manual AsciiDoc]
+Als Basis wird jetzt erstmal asciidoc verwendet.link:{link-writerGuide}[WriterGuide AsciiDoc]
 
 
 link: [sinnvolleLinks][Sinnvolle Links]
@@ -21,9 +24,9 @@ link: [sinnvolleLinks][Sinnvolle Links]
 
 == Sinnvolle Links [[sinnvolleLinks]]
 
-link:https://www.haw-landshut.de/studium/im-studium/rechtliche-angelegenheiten/informatik-studien-und-pruefungsordnungen.html[Studien und Prüfungsordnung]
+* link:{link-pruefungsordnung}[Studien und Prüfungsordnung]
+* link:{link-laufendesStudium}[Infos laufender Studenbetrieb(Vorlesungspläne, ...)]
 
-link:https://www.haw-landshut.de/hochschule/fakultaeten/informatik/infos-zum-laufenden-studienbetrieb.html[Infos laufender Studenbetrieb(Vorlesungspläne, ...)]
 
 == Wichtige Termine
 
