@@ -1,2 +1,53 @@
 # Wiki
 
+Hallo zusammen, das hier ist das Wiki der Fachschaft Informatik.
+
+Als Basis wird jetzt erstmal asciidoc verwendet.link:https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-syntax-quick-reference[Manual AsciiDoc]
+
+## Warum kein echtes Wiki?
+
+Das kommt noch ;-) Fürs Erste wollten wir uns ganz einfach hier beginnen, weil es keine Arbeit macht kurz ein Repo in Github zu erstellen.
+Die Inhalte werden wir später in ein rcihtiges Wiki übertragen.
+
+## Inhaltsverzeichnis
+
+
+
+
+## Sinnvolle Links
+
+link:https://www.haw-landshut.de/studium/im-studium/rechtliche-angelegenheiten/informatik-studien-und-pruefungsordnungen.html[Studien und Prüfungsordnung]
+link:https://www.haw-landshut.de/hochschule/fakultaeten/informatik/infos-zum-laufenden-studienbetrieb.html[Infos laufender Studenbetrieb(Vorlesungspläne, ...)]
+
+## Wichtige Termine
+
+### Rückmeldung zum Semester
+
+### Anmeldugn zu den Kursen(Praktika)
+
+### Anmeldung zu den Prüfungen
+
+
+
+
+
+
+## Semester 1
+
+### Moodle
+
+### SB-Portal
+
+
+## Semester 2
+
+
+
+
+
+
+
+
+
+
+
